@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "661a55627f23431b",
+        "id": "f344275af130cc86",
         "type": "tabs",
         "children": [
           {
-            "id": "c92144edd9dc83a5",
+            "id": "3e01bd3916a95aad",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "618b55f7e7b7de6d",
@@ -118,15 +118,33 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "2024-05-18.md"
+              }
+            }
+          },
+          {
+            "id": "f39beed0b5cc997e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "542dcc6fe28ff778",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 224.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -139,18 +157,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c92144edd9dc83a5",
+  "active": "c17e6d52897e1539",
   "lastOpenFiles": [
+    "General Notes/Vocabulary",
+    "General Notes",
+    "Software Devlopment",
+    "2024-05-18.md",
+    "CS",
+    "UTD/2024-2025/Fall/ECS 3390/Table Test.md",
+    "Menagerie.md",
+    "Test.md",
     "0class_template.md",
     "Untitled 1",
-    "Untitled",
     "UTD/2024-2025/Fall/ECS 3390",
     "UTD/2024-2025/Fall/CS 3377",
     "UTD/2024-2025/Fall/CS 3345",
     "UTD/2024-2025/Fall/Untitled/Untitled",
     "UTD/2024-2025/Fall/CS 3341",
-    "UTD/2024-2025/Fall",
-    "UTD/2024-2025",
-    "UTD"
+    "UTD/2024-2025/Fall"
   ]
 }

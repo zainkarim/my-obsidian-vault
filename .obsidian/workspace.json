@@ -11,8 +11,12 @@
             "id": "3e01bd3916a95aad",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-05-18.md"
+                "file": "test.md"
               }
             }
           },
@@ -157,12 +163,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c17e6d52897e1539",
+  "active": "3e01bd3916a95aad",
   "lastOpenFiles": [
+    "test.md",
+    "2024-05-18.md",
     "General Notes/Vocabulary",
     "General Notes",
     "Software Devlopment",
-    "2024-05-18.md",
     "CS",
     "UTD/2024-2025/Fall/ECS 3390/Table Test.md",
     "Menagerie.md",
@@ -173,7 +180,6 @@
     "UTD/2024-2025/Fall/CS 3377",
     "UTD/2024-2025/Fall/CS 3345",
     "UTD/2024-2025/Fall/Untitled/Untitled",
-    "UTD/2024-2025/Fall/CS 3341",
-    "UTD/2024-2025/Fall"
+    "UTD/2024-2025/Fall/CS 3341"
   ]
 }

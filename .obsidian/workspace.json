@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f344275af130cc86",
+        "id": "b24b6fdf5452b23a",
         "type": "tabs",
         "children": [
           {
-            "id": "3e01bd3916a95aad",
+            "id": "0bb84a8f5f483534",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "Sorting Algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "Sorting Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,9 +102,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "Sorting Algorithms.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "Sorting Algorithms.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -163,8 +163,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3e01bd3916a95aad",
+  "active": "0bb84a8f5f483534",
   "lastOpenFiles": [
+    "Software Devlopment/Data Structures and Algorithms MOC.md",
+    "Sorting Algorithms.md",
+    "Software Devlopment/Searching Algorithms.md",
+    "MOCs/Software Development MOC.md",
+    "Software Devlopment/Linked Lists.md",
+    "Software Devlopment/Stacks.md",
+    "Software Devlopment/Big O Cheat Sheet.md",
+    "Software Devlopment/Arrays.md",
+    "Software Devlopment/Big O Notation.md",
+    "MOCs/UTD MOC.md",
+    "MOCs/General Notes MOC.md",
+    "Software Devlopment/Dynamic Arrays.md",
+    "Data Structures and Algorithms.md",
+    "000 lecture template.md",
+    "000 Templates",
+    "MOCs",
     "test.md",
     "2024-05-18.md",
     "General Notes/Vocabulary",
@@ -178,8 +194,6 @@
     "Untitled 1",
     "UTD/2024-2025/Fall/ECS 3390",
     "UTD/2024-2025/Fall/CS 3377",
-    "UTD/2024-2025/Fall/CS 3345",
-    "UTD/2024-2025/Fall/Untitled/Untitled",
-    "UTD/2024-2025/Fall/CS 3341"
+    "UTD/2024-2025/Fall/CS 3345"
   ]
 }

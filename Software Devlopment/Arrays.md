@@ -77,5 +77,5 @@ This process has an $O(n)$ runtime complexity, where $n$ is the length of the ar
 
 However, the vast majority of times we push data to an array, there will already be memory available to be allocated, hence giving us an $O(1)$ runtime. Therefore, the <i>average</i> time complexity of this process is $O(1)$. This is known as **<u>amortized time complexity</u>**.
 
-#arrays #DSA #CS
+#arrays #DSA #CS #data-structures 
 

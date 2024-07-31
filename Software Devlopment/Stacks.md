@@ -13,4 +13,4 @@ It may be helpful to think of a stack as a vertical dynamic array.
 
 Stacks are considered a **<u>LIFO</u>** (last in first out) data structure.
 
-#DSA #CS #stacks
+#DSA #CS #stacks #data-structures 

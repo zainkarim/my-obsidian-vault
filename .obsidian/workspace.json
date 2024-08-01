@@ -11,11 +11,28 @@
             "id": "115f1527ae5ea7ac",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Software Devlopment/Sorting Algorithms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b2e7293285b6b00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Devlopment/Insertion Sort.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "618b55f7e7b7de6d",
@@ -81,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Software Devlopment/Insertion Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Software Devlopment/Insertion Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Software Devlopment/Insertion Sort.md"
+              }
             }
           },
           {
@@ -142,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 224.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,23 +178,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "115f1527ae5ea7ac",
+  "active": "d2f49c746ff9b928",
   "lastOpenFiles": [
+    "Software Devlopment/Sorting Algorithms.md",
+    "Software Devlopment/Insertion Sort.md",
+    "Software Devlopment/Big O Cheat Sheet.md",
+    "Software Devlopment/Random Search.md",
+    "Software Devlopment/Selection Sort.md",
+    "Software Devlopment/Linear Search.md",
     "Software Devlopment/Data Structures.md",
     "Software Devlopment/Arrays.md",
     "Software Devlopment/Linked Lists.md",
     "Software Devlopment/Stacks.md",
     "Software Devlopment/Data Structures and Algorithms MOC.md",
-    "Software Devlopment/Sorting Algorithms.md",
-    "Selection Sort.md",
     "Software Devlopment/Searching Algorithms.md",
-    "Software Devlopment/Linear Search.md",
-    "Software Devlopment/Random Search.md",
     "Software Devlopment/Binary Search.md",
     "Software Devlopment/Searching Algorithms MOC.md",
     "Data Structures MOC.md",
     "Big O Notation.md",
-    "Software Devlopment/Big O Cheat Sheet.md",
     "MOCs/Software Development MOC.md",
     "Software Devlopment/Big O Notation.md",
     "MOCs/UTD MOC.md",
@@ -188,7 +212,6 @@
     "Software Devlopment",
     "CS",
     "UTD/2024-2025/Fall/ECS 3390/Table Test.md",
-    "Menagerie.md",
     "Untitled 1",
     "UTD/2024-2025/Fall/ECS 3390",
     "UTD/2024-2025/Fall/CS 3377",

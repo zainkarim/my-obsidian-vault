@@ -1,4 +1,3 @@
-## Selection Sort
 1. Find the smallest item in the list and swap it to the 0th position.
 2. Find the second smallest item in the list and switch it to the 1 position
 3. Find the 3rd smallest element in the list and switch to the 2 position
@@ -15,6 +14,20 @@ def selection_sort(list):
 				min_index = j
 		temp = list[i]
 		list[i] = min value
-		liost[min_index] = temp
+		list[min_index] = temp
 ```
+
+**Runtime Analysis
+$n - 1(n-1 + n-2 + n-3 + ... + 3 + 2 + 1)$
+$n + n - 1 + n -2 + n -3 + ... + 3 + 2 + 1 -1$
+$(n +1 ) \times \frac{n}{2}$
+$\frac{n^2}{2} + \frac{n}{2}$
+$n^2 + n$
+
+$O(n^2)$
+
+
+
+
+
 #DSA #CS #sorting-algorithms #selection-sort

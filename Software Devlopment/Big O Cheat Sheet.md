@@ -9,13 +9,21 @@
 - $O(n!)$
 
 
-# Searching Algorithms
-| Operation | Big-O Time     |
-| --------- | -------------- |
-| Linear    | $O(n)$         |
-| Binary    | $O(log(n))$ |
-|           |                |
+# Searching Algorithms #searching-algorithms 
 
+| Operation     | Big-O Time  |
+| ------------- | ----------- |
+| Linear Search | $O(n)$      |
+| Binary Search | $O(log(n))$ |
+| Random Search | $O(n!)$     |
+#linear-search #binary-search #random-search 
+# Sorting Algorithms #sorting-algorithms 
+
+| Operation      | Big-O Time |
+| -------------- | ---------- |
+| Selection Sort | $O(n^2)$   |
+| Insertion Sort |            |
+#selection-sort 
 # Arrays #arrays 
 
 | Operation                                                    | Time Complexity |
@@ -24,9 +32,9 @@
 | Inserting or removing an element from the end of the array   | $O(1)$          |
 | Inserting an element in the middle or beginning of the array | $O(n)$          |
 | Removing an element in the middle or beginning of the array  | $O(n)$          |
-|                                                              |                 |
 
-# Stacks
+# Stacks #stacks 
+
 | Operation | Big-O Time |
 | --------- | ---------- |
 | Push      | $O(1)$     |

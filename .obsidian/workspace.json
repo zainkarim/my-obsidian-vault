@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Devlopment/Insertion Sort.md",
+                "file": "UTD/2024-2025/Fall/CS 3345/Week 1/Introduction.md",
                 "mode": "source",
                 "source": true
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "618b55f7e7b7de6d",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Devlopment/Insertion Sort.md",
+                "file": "UTD/2024-2025/Fall/CS 3345/Week 1/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Devlopment/Insertion Sort.md",
+                "file": "UTD/2024-2025/Fall/CS 3345/Week 1/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Devlopment/Insertion Sort.md"
+                "file": "UTD/2024-2025/Fall/CS 3345/Week 1/Introduction.md"
               }
             }
           },
@@ -178,8 +177,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d2f49c746ff9b928",
+  "active": "7b2e7293285b6b00",
   "lastOpenFiles": [
+    "UTD/2024-2025/Fall/CS 3377/Week 1/Introduction.md",
+    "UTD/2024-2025/Fall/CS 3345/Week 1/Introduction.md",
+    "UTD/2024-2025/Fall/CS 3345/Week 1",
+    "UTD/2024-2025/Fall/ECS 3390/Week 1/Day 1.md",
+    "UTD/2024-2025/Fall/CS 3377/Week 1",
+    "MOCs/UTD MOC.md",
+    "UTD/2024-2025/Fall/ECS 3390/Week 1",
     "Software Devlopment/Sorting Algorithms.md",
     "Software Devlopment/Insertion Sort.md",
     "Software Devlopment/Big O Cheat Sheet.md",
@@ -198,23 +204,16 @@
     "Big O Notation.md",
     "MOCs/Software Development MOC.md",
     "Software Devlopment/Big O Notation.md",
-    "MOCs/UTD MOC.md",
     "MOCs/General Notes MOC.md",
     "Software Devlopment/Dynamic Arrays.md",
     "Data Structures and Algorithms.md",
     "000 lecture template.md",
     "000 Templates",
     "MOCs",
-    "test.md",
-    "2024-05-18.md",
     "General Notes/Vocabulary",
     "General Notes",
     "Software Devlopment",
     "CS",
-    "UTD/2024-2025/Fall/ECS 3390/Table Test.md",
-    "Untitled 1",
-    "UTD/2024-2025/Fall/ECS 3390",
-    "UTD/2024-2025/Fall/CS 3377",
-    "UTD/2024-2025/Fall/CS 3345"
+    "Untitled 1"
   ]
 }

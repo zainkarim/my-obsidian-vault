@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3345/Week 1/Introduction.md",
+                "file": "UTD/2024-2025/Fall/CS 3345/Week 1/Algorithm Complexity.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3345/Week 1/Introduction.md",
+                "file": "UTD/2024-2025/Fall/CS 3345/Week 1/Algorithm Complexity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3345/Week 1/Introduction.md",
+                "file": "UTD/2024-2025/Fall/CS 3345/Week 1/Algorithm Complexity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3345/Week 1/Introduction.md"
+                "file": "UTD/2024-2025/Fall/CS 3345/Week 1/Algorithm Complexity.md"
               }
             }
           },
@@ -179,8 +179,9 @@
   },
   "active": "7b2e7293285b6b00",
   "lastOpenFiles": [
-    "UTD/2024-2025/Fall/CS 3377/Week 1/Introduction.md",
     "UTD/2024-2025/Fall/CS 3345/Week 1/Introduction.md",
+    "UTD/2024-2025/Fall/CS 3345/Week 1/Algorithm Complexity.md",
+    "UTD/2024-2025/Fall/CS 3377/Week 1/Introduction.md",
     "UTD/2024-2025/Fall/CS 3345/Week 1",
     "UTD/2024-2025/Fall/ECS 3390/Week 1/Day 1.md",
     "UTD/2024-2025/Fall/CS 3377/Week 1",
@@ -207,7 +208,6 @@
     "MOCs/General Notes MOC.md",
     "Software Devlopment/Dynamic Arrays.md",
     "Data Structures and Algorithms.md",
-    "000 lecture template.md",
     "000 Templates",
     "MOCs",
     "General Notes/Vocabulary",

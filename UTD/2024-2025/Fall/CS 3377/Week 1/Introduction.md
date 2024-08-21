@@ -52,6 +52,10 @@ For example, Linux is the kernel used by the GNU operating system. Some people r
 
 
 ## File System
-
-
+First node is called the root directory
+### Absolute Path
+`/Users/zainkarim/Documents/my-obsidian-vault`
+### Relative Path
+If I'm in the `zainkarim` directory, then the relative path is:
+`/Documents/my-obsidian-vault`
 #CS #cs3377 #utd 

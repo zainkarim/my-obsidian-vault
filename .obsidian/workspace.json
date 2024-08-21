@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Devlopment/Sorting Algorithms.md",
+                "file": "UTD/2024-2025/Fall/CS 3345/Week 1/Lecture 2.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -23,16 +23,11 @@
             "id": "7b2e7293285b6b00",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UTD/2024-2025/Fall/CS 3345/Week 1/Algorithm Complexity.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3345/Week 1/Algorithm Complexity.md",
+                "file": "UTD/2024-2025/Fall/CS 3345/Week 1/Lecture 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3345/Week 1/Algorithm Complexity.md",
+                "file": "UTD/2024-2025/Fall/CS 3345/Week 1/Lecture 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3345/Week 1/Algorithm Complexity.md"
+                "file": "UTD/2024-2025/Fall/CS 3345/Week 1/Lecture 2.md"
               }
             }
           },
@@ -177,17 +172,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7b2e7293285b6b00",
+  "active": "115f1527ae5ea7ac",
   "lastOpenFiles": [
-    "UTD/2024-2025/Fall/CS 3345/Week 1/Introduction.md",
     "UTD/2024-2025/Fall/CS 3345/Week 1/Algorithm Complexity.md",
+    "UTD/2024-2025/Fall/CS 3345/Week 1/Introduction.md",
     "UTD/2024-2025/Fall/CS 3377/Week 1/Introduction.md",
+    "MOCs/General Notes MOC.md",
+    "Software Devlopment/Sorting Algorithms.md",
+    "UTD/2024-2025/Fall/CS 3345/Week 1/Lecture 2.md",
+    "UTD/2024-2025/Fall/CS 3377/Week 1/Unix Commands.md",
     "UTD/2024-2025/Fall/CS 3345/Week 1",
     "UTD/2024-2025/Fall/ECS 3390/Week 1/Day 1.md",
     "UTD/2024-2025/Fall/CS 3377/Week 1",
     "MOCs/UTD MOC.md",
     "UTD/2024-2025/Fall/ECS 3390/Week 1",
-    "Software Devlopment/Sorting Algorithms.md",
     "Software Devlopment/Insertion Sort.md",
     "Software Devlopment/Big O Cheat Sheet.md",
     "Software Devlopment/Random Search.md",
@@ -205,9 +203,6 @@
     "Big O Notation.md",
     "MOCs/Software Development MOC.md",
     "Software Devlopment/Big O Notation.md",
-    "MOCs/General Notes MOC.md",
-    "Software Devlopment/Dynamic Arrays.md",
-    "Data Structures and Algorithms.md",
     "000 Templates",
     "MOCs",
     "General Notes/Vocabulary",

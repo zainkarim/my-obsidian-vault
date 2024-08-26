@@ -48,4 +48,6 @@ If an iterative solution exists for a numerical problem then it is preferred ove
 	Think of the idea to divide the array into 2 subarrays; where will the maximum subsequence be?
 	Either the left subarray, right subarray, or across
 	1. Algorithm recursively subdivides the array and 
+
+
 #DSA #cs3345 #utd #CS #big-o 

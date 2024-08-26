@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "df4029f8e8f54215",
+            "id": "76d69e1e7ef00222",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3345/Week 1/Lecture 2.md",
-                "mode": "preview",
+                "file": "UTD/2024-2025/Fall/ECS 3390/Module 1/Communication and the Workplace.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -49,7 +49,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3345/Week 1/Lecture 2.md",
+                "file": "UTD/2024-2025/Fall/ECS 3390/Module 1/Communication and the Workplace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3345/Week 1/Lecture 2.md",
+                "file": "UTD/2024-2025/Fall/ECS 3390/Module 1/Communication and the Workplace.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3345/Week 1/Lecture 2.md"
+                "file": "UTD/2024-2025/Fall/ECS 3390/Module 1/Communication and the Workplace.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -164,43 +164,43 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "df4029f8e8f54215",
+  "active": "c17e6d52897e1539",
   "lastOpenFiles": [
-    "UTD/2024-2025/Fall/CS 3345/Week 1/Introduction.md",
+    "UTD/2024-2025/Fall/CS 3377/Week2",
+    "UTD/2024-2025/Fall/CS 3377/Week 1/Untitled",
+    "UTD/2024-2025/Fall/ECS 3390/Module 1/Communication and the Workplace.md",
+    "UTD/2024-2025/Fall/ECS 3390/Module 2",
+    "UTD/2024-2025/Fall/ECS 3390/Module 1/Day 1.md",
     "UTD/2024-2025/Fall/CS 3345/Week 1/Lecture 2.md",
     "UTD/2024-2025/Fall/CS 3345/Week 1/Algorithm Complexity.md",
-    "UTD/2024-2025/Fall/CS 3377/Week 1/Introduction.md",
+    "Software Devlopment/Big O Cheat Sheet.md",
+    "MOCs/Software Development MOC.md",
     "MOCs/General Notes MOC.md",
+    "Software Devlopment/Arrays.md",
+    "MOCs/UTD MOC.md",
+    "Software Devlopment/Random Search.md",
+    "Software Devlopment/Searching Algorithms.md",
+    "Software Devlopment/Data Structures and Algorithms MOC.md",
+    "UTD/2024-2025/Fall/CS 3345/Week 1/Introduction.md",
+    "UTD/2024-2025/Fall/CS 3377/Week 1/Introduction.md",
     "Software Devlopment/Sorting Algorithms.md",
     "UTD/2024-2025/Fall/CS 3377/Week 1/Unix Commands.md",
     "UTD/2024-2025/Fall/CS 3345/Week 1",
-    "UTD/2024-2025/Fall/ECS 3390/Week 1/Day 1.md",
     "UTD/2024-2025/Fall/CS 3377/Week 1",
-    "MOCs/UTD MOC.md",
-    "UTD/2024-2025/Fall/ECS 3390/Week 1",
+    "UTD/2024-2025/Fall/ECS 3390/Module 1",
     "Software Devlopment/Insertion Sort.md",
-    "Software Devlopment/Big O Cheat Sheet.md",
-    "Software Devlopment/Random Search.md",
     "Software Devlopment/Selection Sort.md",
     "Software Devlopment/Linear Search.md",
     "Software Devlopment/Data Structures.md",
-    "Software Devlopment/Arrays.md",
     "Software Devlopment/Linked Lists.md",
     "Software Devlopment/Stacks.md",
-    "Software Devlopment/Data Structures and Algorithms MOC.md",
-    "Software Devlopment/Searching Algorithms.md",
     "Software Devlopment/Binary Search.md",
     "Software Devlopment/Searching Algorithms MOC.md",
     "Data Structures MOC.md",
-    "Big O Notation.md",
-    "MOCs/Software Development MOC.md",
-    "Software Devlopment/Big O Notation.md",
     "000 Templates",
     "MOCs",
     "General Notes/Vocabulary",
     "General Notes",
-    "Software Devlopment",
-    "CS",
-    "Untitled 1"
+    "Software Devlopment"
   ]
 }

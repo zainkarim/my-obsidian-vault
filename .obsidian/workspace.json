@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3345/Week 2/Lecture 3.md",
+                "file": "UTD/2024-2025/Fall/CS 3377/Week 1/Introduction.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3345/Week 2/Lecture 3.md",
+                "file": "UTD/2024-2025/Fall/CS 3377/Week 1/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3345/Week 2/Lecture 3.md",
+                "file": "UTD/2024-2025/Fall/CS 3377/Week 1/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3345/Week 2/Lecture 3.md"
+                "file": "UTD/2024-2025/Fall/CS 3377/Week 1/Introduction.md"
               }
             }
           },
@@ -164,15 +164,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "76d69e1e7ef00222",
+  "active": "c17e6d52897e1539",
   "lastOpenFiles": [
-    "UTD/2024-2025/Fall/CS 3377/Week2/Linux Commands.md",
+    "UTD/2024-2025/Fall/CS 3377/Week 2/Linux Commands.pdf",
+    "UTD/2024-2025/Fall/CS 3377/Week 2/Linux Commands_tmp.html",
+    "UTD/2024-2025/Fall/CS 3377/Week 1/Introduction.pdf",
+    "UTD/2024-2025/Fall/CS 3377/Week 1/Introduction_tmp.html",
+    "UTD/2024-2025/Fall/CS 3377/Week 2/Linux Commands.md",
+    "UTD/2024-2025/Fall/CS 3377/Week 1/Introduction.md",
     "UTD/2024-2025/Fall/CS 3345/Week 2/Lecture 3.md",
     "UTD/2024-2025/Fall/CS 3345/Week 2/Untitled",
     "UTD/2024-2025/Fall/CS 3345/Week 2",
     "UTD/2024-2025/Fall/ECS 3390/Module 1/Communication and the Workplace.md",
-    "UTD/2024-2025/Fall/CS 3377/Week 1/Introduction.md",
-    "UTD/2024-2025/Fall/CS 3377/Week2",
+    "UTD/2024-2025/Fall/CS 3377/Week 2",
     "UTD/2024-2025/Fall/CS 3377/Week 1/Untitled",
     "UTD/2024-2025/Fall/ECS 3390/Module 2",
     "UTD/2024-2025/Fall/ECS 3390/Module 1/Day 1.md",
@@ -191,16 +195,12 @@
     "UTD/2024-2025/Fall/CS 3377/Week 1/Unix Commands.md",
     "UTD/2024-2025/Fall/CS 3345/Week 1",
     "UTD/2024-2025/Fall/CS 3377/Week 1",
-    "UTD/2024-2025/Fall/ECS 3390/Module 1",
     "Software Devlopment/Insertion Sort.md",
     "Software Devlopment/Selection Sort.md",
     "Software Devlopment/Linear Search.md",
     "Software Devlopment/Data Structures.md",
     "Software Devlopment/Linked Lists.md",
     "Software Devlopment/Stacks.md",
-    "Software Devlopment/Binary Search.md",
-    "Software Devlopment/Searching Algorithms MOC.md",
-    "000 Templates",
-    "MOCs"
+    "Software Devlopment/Binary Search.md"
   ]
 }

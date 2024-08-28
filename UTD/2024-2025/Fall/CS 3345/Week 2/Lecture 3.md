@@ -45,3 +45,5 @@ Look up ==**Kadane's Algorithm**==
 - Defines relationship among individual elements
 - Defines valid operations allowed on the elements, and parameters that can be passed.
 - Specifies error conditions associated with the operations.
+
+#DSA #cs3345 #utd #CS #big-o  #abstract-data-types

@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UTD/2024-2025/Fall/ECS 3390/Module 1/Communication and the Workplace.md",
+                "file": "UTD/2024-2025/Fall/CS 3345/Week 2/Lecture 3.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UTD/2024-2025/Fall/ECS 3390/Module 1/Communication and the Workplace.md",
+                "file": "UTD/2024-2025/Fall/CS 3345/Week 2/Lecture 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UTD/2024-2025/Fall/ECS 3390/Module 1/Communication and the Workplace.md",
+                "file": "UTD/2024-2025/Fall/CS 3345/Week 2/Lecture 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UTD/2024-2025/Fall/ECS 3390/Module 1/Communication and the Workplace.md"
+                "file": "UTD/2024-2025/Fall/CS 3345/Week 2/Lecture 3.md"
               }
             }
           },
@@ -164,11 +164,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c17e6d52897e1539",
+  "active": "76d69e1e7ef00222",
   "lastOpenFiles": [
+    "UTD/2024-2025/Fall/CS 3377/Week2/Linux Commands.md",
+    "UTD/2024-2025/Fall/CS 3345/Week 2/Lecture 3.md",
+    "UTD/2024-2025/Fall/CS 3345/Week 2/Untitled",
+    "UTD/2024-2025/Fall/CS 3345/Week 2",
+    "UTD/2024-2025/Fall/ECS 3390/Module 1/Communication and the Workplace.md",
+    "UTD/2024-2025/Fall/CS 3377/Week 1/Introduction.md",
     "UTD/2024-2025/Fall/CS 3377/Week2",
     "UTD/2024-2025/Fall/CS 3377/Week 1/Untitled",
-    "UTD/2024-2025/Fall/ECS 3390/Module 1/Communication and the Workplace.md",
     "UTD/2024-2025/Fall/ECS 3390/Module 2",
     "UTD/2024-2025/Fall/ECS 3390/Module 1/Day 1.md",
     "UTD/2024-2025/Fall/CS 3345/Week 1/Lecture 2.md",
@@ -182,7 +187,6 @@
     "Software Devlopment/Searching Algorithms.md",
     "Software Devlopment/Data Structures and Algorithms MOC.md",
     "UTD/2024-2025/Fall/CS 3345/Week 1/Introduction.md",
-    "UTD/2024-2025/Fall/CS 3377/Week 1/Introduction.md",
     "Software Devlopment/Sorting Algorithms.md",
     "UTD/2024-2025/Fall/CS 3377/Week 1/Unix Commands.md",
     "UTD/2024-2025/Fall/CS 3345/Week 1",
@@ -196,11 +200,7 @@
     "Software Devlopment/Stacks.md",
     "Software Devlopment/Binary Search.md",
     "Software Devlopment/Searching Algorithms MOC.md",
-    "Data Structures MOC.md",
     "000 Templates",
-    "MOCs",
-    "General Notes/Vocabulary",
-    "General Notes",
-    "Software Devlopment"
+    "MOCs"
   ]
 }

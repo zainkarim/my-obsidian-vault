@@ -75,7 +75,7 @@ chmod 764 # chmod(user, group, others)
 ```
 
 ## Running a job
-- Make sure the program gas executable permissions
+- Make sure the program has executable permissions
 - use `./` to run the program
 
 ## Changing file name when compiling

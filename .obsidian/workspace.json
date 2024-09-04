@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3345/Week 2/Lecture 4.md",
+                "file": "UTD/2024-2025/Fall/CS 3377/Week 3/Bash Scripting.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3345/Week 2/Lecture 4.md",
+                "file": "UTD/2024-2025/Fall/CS 3377/Week 3/Bash Scripting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3345/Week 2/Lecture 4.md",
+                "file": "UTD/2024-2025/Fall/CS 3377/Week 3/Bash Scripting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3345/Week 2/Lecture 4.md"
+                "file": "UTD/2024-2025/Fall/CS 3377/Week 3/Bash Scripting.md"
               }
             }
           },
@@ -166,9 +166,11 @@
   },
   "active": "76d69e1e7ef00222",
   "lastOpenFiles": [
+    "UTD/2024-2025/Fall/CS 3345/Week 2/Lecture 4.md",
+    "UTD/2024-2025/Fall/CS 3377/Week 3/Bash Scripting.md",
+    "UTD/2024-2025/Fall/CS 3377/Week 3",
     "UTD/2024-2025/Fall/CS 3345/Week 2/Lecture 3.md",
     "UTD/2024-2025/Fall/CS 3345/Week 1/Lecture 2.md",
-    "UTD/2024-2025/Fall/CS 3345/Week 2/Lecture 4.md",
     "UTD/2024-2025/Fall/CS 3345/Week 2/Untitled",
     "UTD/2024-2025/Fall/CS 3377/Week 1/Introduction.md",
     "UTD/2024-2025/Fall/CS 3377/Week 2/Linux Commands.pdf",
@@ -194,13 +196,11 @@
     "UTD/2024-2025/Fall/CS 3345/Week 1/Introduction.md",
     "Software Devlopment/Sorting Algorithms.md",
     "UTD/2024-2025/Fall/CS 3377/Week 1/Unix Commands.md",
-    "UTD/2024-2025/Fall/CS 3345/Week 1",
     "Software Devlopment/Insertion Sort.md",
     "Software Devlopment/Selection Sort.md",
     "Software Devlopment/Linear Search.md",
     "Software Devlopment/Data Structures.md",
     "Software Devlopment/Linked Lists.md",
-    "Software Devlopment/Stacks.md",
-    "Software Devlopment/Binary Search.md"
+    "Software Devlopment/Stacks.md"
   ]
 }

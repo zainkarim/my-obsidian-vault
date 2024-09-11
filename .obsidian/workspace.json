@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3377/Week 4/Regular Expression in UNIX.md",
+                "file": "UTD/2024-2025/Fall/CS 3345/Week 4/Lecture 7.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3377/Week 4/Regular Expression in UNIX.md",
+                "file": "UTD/2024-2025/Fall/CS 3345/Week 4/Lecture 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3377/Week 4/Regular Expression in UNIX.md",
+                "file": "UTD/2024-2025/Fall/CS 3345/Week 4/Lecture 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3377/Week 4/Regular Expression in UNIX.md"
+                "file": "UTD/2024-2025/Fall/CS 3345/Week 4/Lecture 7.md"
               }
             }
           },
@@ -166,16 +166,20 @@
   },
   "active": "76d69e1e7ef00222",
   "lastOpenFiles": [
-    "UTD/2024-2025/Fall/ECS 3390/Week 4/Cover Letters.md",
+    "UTD/2024-2025/Fall/CS 3377/Week 4/Finite State Automata.md",
     "UTD/2024-2025/Fall/CS 3377/Week 4/Regular Expression in UNIX.md",
+    "UTD/2024-2025/Fall/CS 3377/Week 3/Bash Scripting.md",
+    "UTD/2024-2025/Fall/CS 3345/Week 4/Lecture 7.md",
+    "UTD/2024-2025/Fall/CS 3345/Week 3/Lecture 5.md",
+    "UTD/2024-2025/Fall/CS 3377/Week 2/Linux Commands.md",
+    "Untitled.md",
+    "UTD/2024-2025/Fall/CS 3345/Week 4",
+    "UTD/2024-2025/Fall/ECS 3390/Week 4/Cover Letters.md",
     "UTD/2024-2025/Fall/CS 3377/Week 4",
     "UTD/2024-2025/Fall/CS 3377/Week 3/Untitled",
-    "UTD/2024-2025/Fall/CS 3345/Week 3/Lecture 5.md",
     "UTD/2024-2025/Fall/ECS 3390/Week 4",
     "UTD/2024-2025/Fall/CS 3345/Week 2/Lecture 4.md",
-    "UTD/2024-2025/Fall/CS 3377/Week 3/Bash Scripting.md",
     "UTD/2024-2025/Fall/CS 3345/Week 3",
-    "UTD/2024-2025/Fall/CS 3377/Week 2/Linux Commands.md",
     "UTD/2024-2025/Fall/CS 3377/Week 2/Linux Commands.pdf",
     "UTD/2024-2025/Fall/CS 3377/Week 3",
     "UTD/2024-2025/Fall/CS 3345/Week 2/Lecture 3.md",
@@ -184,7 +188,6 @@
     "UTD/2024-2025/Fall/CS 3377/Week 1/Introduction.md",
     "UTD/2024-2025/Fall/CS 3377/Week 2/Linux Commands_tmp.html",
     "UTD/2024-2025/Fall/CS 3377/Week 1/Introduction.pdf",
-    "UTD/2024-2025/Fall/CS 3377/Week 1/Introduction_tmp.html",
     "UTD/2024-2025/Fall/ECS 3390/Module 1/Communication and the Workplace.md",
     "UTD/2024-2025/Fall/ECS 3390/Module 1/Day 1.md",
     "UTD/2024-2025/Fall/CS 3345/Week 1/Algorithm Complexity.md",
@@ -198,9 +201,6 @@
     "Software Devlopment/Data Structures and Algorithms MOC.md",
     "UTD/2024-2025/Fall/CS 3345/Week 1/Introduction.md",
     "Software Devlopment/Sorting Algorithms.md",
-    "UTD/2024-2025/Fall/CS 3377/Week 1/Unix Commands.md",
-    "Software Devlopment/Insertion Sort.md",
-    "Software Devlopment/Selection Sort.md",
-    "Software Devlopment/Linear Search.md"
+    "UTD/2024-2025/Fall/CS 3377/Week 1/Unix Commands.md"
   ]
 }

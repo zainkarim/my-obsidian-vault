@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "46a0f7bbf4a6292f",
+        "id": "5e1e8d757575dc83",
         "type": "tabs",
         "children": [
           {
-            "id": "76d69e1e7ef00222",
+            "id": "bde60e355f425a98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3345/Week 4/Lecture 7.md",
+                "file": "UTD/2024-2025/Fall/CS 3377/Week 5/C Programming.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3345/Week 4/Lecture 7.md",
+                "file": "UTD/2024-2025/Fall/CS 3377/Week 5/C Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3345/Week 4/Lecture 7.md",
+                "file": "UTD/2024-2025/Fall/CS 3377/Week 5/C Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3345/Week 4/Lecture 7.md"
+                "file": "UTD/2024-2025/Fall/CS 3377/Week 5/C Programming.md"
               }
             }
           },
@@ -164,12 +164,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "76d69e1e7ef00222",
+  "active": "bde60e355f425a98",
   "lastOpenFiles": [
-    "UTD/2024-2025/Fall/CS 3377/Week 4/Finite State Automata.md",
     "UTD/2024-2025/Fall/CS 3377/Week 4/Regular Expression in UNIX.md",
-    "UTD/2024-2025/Fall/CS 3377/Week 3/Bash Scripting.md",
+    "UTD/2024-2025/Fall/CS 3377/Week 5/C Programming.md",
+    "UTD/2024-2025/Fall/CS 3377/Week 4/Finite State Automata.md",
+    "UTD/2024-2025/Fall/CS 3345/Week 5/Lecture 8.md",
+    "Software Devlopment/Linear Search.md",
+    "Software Devlopment/Linked Lists.md",
     "UTD/2024-2025/Fall/CS 3345/Week 4/Lecture 7.md",
+    "UTD/2024-2025/Fall/CS 3345/Untitled.canvas",
+    "UTD/2024-2025/Fall/CS 3345/Week 5",
+    "UTD/2024-2025/Fall/CS 3345/Week 4/Untitled",
+    "UTD/2024-2025/Fall/CS 3377/Week 5",
+    "UTD/2024-2025/Fall/CS 3377/Week 3/Bash Scripting.md",
     "UTD/2024-2025/Fall/CS 3345/Week 3/Lecture 5.md",
     "UTD/2024-2025/Fall/CS 3377/Week 2/Linux Commands.md",
     "Untitled.md",
@@ -184,10 +192,7 @@
     "UTD/2024-2025/Fall/CS 3377/Week 3",
     "UTD/2024-2025/Fall/CS 3345/Week 2/Lecture 3.md",
     "UTD/2024-2025/Fall/CS 3345/Week 1/Lecture 2.md",
-    "UTD/2024-2025/Fall/CS 3345/Week 2/Untitled",
     "UTD/2024-2025/Fall/CS 3377/Week 1/Introduction.md",
-    "UTD/2024-2025/Fall/CS 3377/Week 2/Linux Commands_tmp.html",
-    "UTD/2024-2025/Fall/CS 3377/Week 1/Introduction.pdf",
     "UTD/2024-2025/Fall/ECS 3390/Module 1/Communication and the Workplace.md",
     "UTD/2024-2025/Fall/ECS 3390/Module 1/Day 1.md",
     "UTD/2024-2025/Fall/CS 3345/Week 1/Algorithm Complexity.md",
@@ -197,10 +202,6 @@
     "Software Devlopment/Arrays.md",
     "MOCs/UTD MOC.md",
     "Software Devlopment/Random Search.md",
-    "Software Devlopment/Searching Algorithms.md",
-    "Software Devlopment/Data Structures and Algorithms MOC.md",
-    "UTD/2024-2025/Fall/CS 3345/Week 1/Introduction.md",
-    "Software Devlopment/Sorting Algorithms.md",
-    "UTD/2024-2025/Fall/CS 3377/Week 1/Unix Commands.md"
+    "Software Devlopment/Searching Algorithms.md"
   ]
 }

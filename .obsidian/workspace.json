@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3377/Week 5/C Programming.md",
+                "file": "UTD/2024-2025/Fall/CS 3345/Week 5/Lecture 8.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3377/Week 5/C Programming.md",
+                "file": "UTD/2024-2025/Fall/CS 3345/Week 5/Lecture 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3377/Week 5/C Programming.md",
+                "file": "UTD/2024-2025/Fall/CS 3345/Week 5/Lecture 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3377/Week 5/C Programming.md"
+                "file": "UTD/2024-2025/Fall/CS 3345/Week 5/Lecture 8.md"
               }
             }
           },
@@ -166,13 +166,13 @@
   },
   "active": "bde60e355f425a98",
   "lastOpenFiles": [
-    "UTD/2024-2025/Fall/CS 3377/Week 4/Regular Expression in UNIX.md",
-    "UTD/2024-2025/Fall/CS 3377/Week 5/C Programming.md",
-    "UTD/2024-2025/Fall/CS 3377/Week 4/Finite State Automata.md",
+    "UTD/2024-2025/Fall/CS 3345/Week 4/Lecture 7.md",
     "UTD/2024-2025/Fall/CS 3345/Week 5/Lecture 8.md",
+    "UTD/2024-2025/Fall/CS 3377/Week 5/C Programming.md",
+    "UTD/2024-2025/Fall/CS 3377/Week 4/Regular Expression in UNIX.md",
+    "UTD/2024-2025/Fall/CS 3377/Week 4/Finite State Automata.md",
     "Software Devlopment/Linear Search.md",
     "Software Devlopment/Linked Lists.md",
-    "UTD/2024-2025/Fall/CS 3345/Week 4/Lecture 7.md",
     "UTD/2024-2025/Fall/CS 3345/Untitled.canvas",
     "UTD/2024-2025/Fall/CS 3345/Week 5",
     "UTD/2024-2025/Fall/CS 3345/Week 4/Untitled",

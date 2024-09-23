@@ -56,7 +56,7 @@ DFS algorithms have three variants:
 - Most used variant of DFS Traversal of the tree
 - Recursive
 	- go to left subtree
-	- visit ode
+	- visit node
 	- go to right subtree
 - 
 

@@ -2,7 +2,6 @@
 - Easy to learn
 - Structured
 - low-level
-
 ## Algorithms
 - Procedure for solving problems
 	- actions to be executed

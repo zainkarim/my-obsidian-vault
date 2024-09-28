@@ -25,4 +25,4 @@
 - If we can prove that $h$ in such trees is $\log n$, then AVL tree operations (search, insert, delete) are all $O(\log n)$.
 ## AVL Complexity
 
-#DSA #cs3345 #utd #CS #big-o #abstract-data-types #trees #binary-trees #binary-search-trees
+#DSA #cs3345 #utd #CS #big-o #abstract-data-types #trees #binary-trees #binary-search-trees #avl

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3345/Week 6/Lecture 11.md",
+                "file": "UTD/2024-2025/Fall/CS 3345/Week 7/Lecture 12.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,13 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "618b55f7e7b7de6d",
@@ -87,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3345/Week 6/Lecture 11.md",
+                "file": "UTD/2024-2025/Fall/CS 3345/Week 7/Lecture 12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3345/Week 6/Lecture 11.md",
+                "file": "UTD/2024-2025/Fall/CS 3345/Week 7/Lecture 12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3345/Week 6/Lecture 11.md"
+                "file": "UTD/2024-2025/Fall/CS 3345/Week 7/Lecture 12.md"
               }
             }
           },
@@ -169,16 +167,20 @@
   "active": "bde60e355f425a98",
   "lastOpenFiles": [
     "UTD/2024-2025/Fall/CS 3345/Week 6/Lecture 11.md",
-    "UTD/2024-2025/Fall/CS 3345/Week 1/Algorithm Complexity.md",
     "UTD/2024-2025/Fall/CS 3345/Week 6/Lecture 10.md",
-    "UTD/2024-2025/Fall/CS 3345/Week 5/Lecture 8.md",
+    "UTD/2024-2025/Fall/CS 3345/Week 7/Lecture 12.md",
+    "UTD/2024-2025/Fall/CS 3377/Week 7/UNIX File System API.md",
+    "UTD/2024-2025/Fall/CS 3345/Week 7",
+    "UTD/2024-2025/Fall/CS 3377/Week 4/Regular Expression in UNIX.md",
     "UTD/2024-2025/Fall/CS 3377/Week 6/C Functions.md",
+    "UTD/2024-2025/Fall/CS 3377/Week 7",
+    "UTD/2024-2025/Fall/CS 3345/Week 1/Algorithm Complexity.md",
+    "UTD/2024-2025/Fall/CS 3345/Week 5/Lecture 8.md",
     "UTD/2024-2025/Fall/CS 3377/Week 6/C Control Structures.md",
     "UTD/2024-2025/Fall/CS 3377/Week 5/C Programming.md",
     "UTD/2024-2025/Fall/CS 3377/Week 6",
     "UTD/2024-2025/Fall/CS 3345/Week 6",
     "UTD/2024-2025/Fall/CS 3345/Week 4/Lecture 7.md",
-    "UTD/2024-2025/Fall/CS 3377/Week 4/Regular Expression in UNIX.md",
     "UTD/2024-2025/Fall/CS 3377/Week 4/Finite State Automata.md",
     "Software Devlopment/Linear Search.md",
     "Software Devlopment/Linked Lists.md",
@@ -194,16 +196,12 @@
     "UTD/2024-2025/Fall/ECS 3390/Week 4/Cover Letters.md",
     "UTD/2024-2025/Fall/CS 3377/Week 4",
     "UTD/2024-2025/Fall/CS 3377/Week 3/Untitled",
-    "UTD/2024-2025/Fall/ECS 3390/Week 4",
     "UTD/2024-2025/Fall/CS 3345/Week 2/Lecture 4.md",
-    "UTD/2024-2025/Fall/CS 3345/Week 3",
     "UTD/2024-2025/Fall/CS 3345/Week 2/Lecture 3.md",
     "UTD/2024-2025/Fall/CS 3345/Week 1/Lecture 2.md",
     "UTD/2024-2025/Fall/CS 3377/Week 1/Introduction.md",
     "UTD/2024-2025/Fall/ECS 3390/Module 1/Communication and the Workplace.md",
     "UTD/2024-2025/Fall/ECS 3390/Module 1/Day 1.md",
-    "Software Devlopment/Big O Cheat Sheet.md",
-    "MOCs/Software Development MOC.md",
-    "MOCs/General Notes MOC.md"
+    "Software Devlopment/Big O Cheat Sheet.md"
   ]
 }

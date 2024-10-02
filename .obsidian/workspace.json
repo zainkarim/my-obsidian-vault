@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3377/Week 7/UNIX File System API.md",
+                "file": "UTD/2024-2025/Fall/CS 3345/Week 7/Lecture 13.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3377/Week 7/UNIX File System API.md",
+                "file": "UTD/2024-2025/Fall/CS 3345/Week 7/Lecture 13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3377/Week 7/UNIX File System API.md",
+                "file": "UTD/2024-2025/Fall/CS 3345/Week 7/Lecture 13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3377/Week 7/UNIX File System API.md"
+                "file": "UTD/2024-2025/Fall/CS 3345/Week 7/Lecture 13.md"
               }
             }
           },
@@ -167,9 +167,10 @@
   "active": "bde60e355f425a98",
   "lastOpenFiles": [
     "UTD/2024-2025/Fall/CS 3345/Week 7/Lecture 12.md",
+    "UTD/2024-2025/Fall/CS 3345/Week 7/Lecture 13.md",
+    "UTD/2024-2025/Fall/CS 3377/Week 7/UNIX File System API.md",
     "UTD/2024-2025/Fall/CS 3345/Week 6/Lecture 11.md",
     "UTD/2024-2025/Fall/CS 3345/Week 6/Lecture 10.md",
-    "UTD/2024-2025/Fall/CS 3377/Week 7/UNIX File System API.md",
     "UTD/2024-2025/Fall/CS 3345/Week 7",
     "UTD/2024-2025/Fall/CS 3377/Week 4/Regular Expression in UNIX.md",
     "UTD/2024-2025/Fall/CS 3377/Week 6/C Functions.md",
@@ -201,7 +202,6 @@
     "UTD/2024-2025/Fall/CS 3345/Week 1/Lecture 2.md",
     "UTD/2024-2025/Fall/CS 3377/Week 1/Introduction.md",
     "UTD/2024-2025/Fall/ECS 3390/Module 1/Communication and the Workplace.md",
-    "UTD/2024-2025/Fall/ECS 3390/Module 1/Day 1.md",
-    "Software Devlopment/Big O Cheat Sheet.md"
+    "UTD/2024-2025/Fall/ECS 3390/Module 1/Day 1.md"
   ]
 }

@@ -1,4 +1,4 @@
-# Compute Disk Structure & Performance
+z# Compute Disk Structure & Performance
 ### File Storage
 - Files can be stored using integral number of blocks
 	- Blocks are the smallest unit able to store data

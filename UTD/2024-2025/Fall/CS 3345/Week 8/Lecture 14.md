@@ -85,6 +85,8 @@ Recall, we want $m = \Theta(n)$
 	- Bad selection of $m$ (table size) can cause a lot of ==collisions== (hashing function produces the same index for more than one key)
 	- Ex: Powers of 2, 10, and non-prime numbers in general
 	- Ex: if $m$ is even and the majority of the keys are also even, it will result in a half full hash table.
-- In general, this method is okay if $m$ is prime and not too close to any power of 2 or 10
+- ==In general, this method is okay if $m$ is prime and not too close to any power of 2 or 10==
 ## Hashing Function: Division Example
-- If $m = 2^p$, then $h(k)$ is just the least significant $p$ of the binary representation of $k$.
+- If $m = 2^p$, then $h_{div}(k)$ is just the least significant $p$ of the binary representation of $k$.
+
+#DSA #cs3345 #utd #CS #big-o #hashing

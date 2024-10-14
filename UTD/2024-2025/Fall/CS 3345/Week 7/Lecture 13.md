@@ -58,7 +58,4 @@ z# Compute Disk Structure & Performance
 - Then the complete tree height is 3 (after adding the leaf node level)
 - Assuming only root node is in memory, then any search would require three disk accesses, or 30ms.
 
-
-
-
 #DSA #cs3345 #utd #CS #big-o #abstract-data-types #trees #binary-trees #binary-search-trees #m-way-trees #m-ary-trees #b-trees

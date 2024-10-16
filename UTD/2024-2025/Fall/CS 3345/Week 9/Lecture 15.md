@@ -51,14 +51,33 @@ Worst case search scenario is when all keys hash to the same slot, so it ends up
 - Attempt to find a contiguous empty cell to use as the key index
 - Cell allocation follows the following formula
 	- $h_i(x) = (hash(x) + f(i))\mod TableSize$, with $f(0) = 0$
+	- i -> iterations
 	- $f$ is the collision resolution strategy (offset!)
 - These tables (usually $\lambda < 0.5$) (room is twice the size of the number of students) are called probing hashing tables.
-
 ## Linear Probing
 - $f$ is linear function of $i$, typically $f(i) = i$
 	- Sequentially attempting to find an empty cell
 	- Hash function: $h(k) = k \mod m$
-	- 
-
+## Linear Probing - Issues
+- Primary clustering
+## Quadratic Probing
+- instead of $f(i)$ being linear, we'll make it quadratic
+- Minimizes clustering issue
+	- $f(i) = i^2$
+## Quadratic Probing - Issues
+- Limited table utilization
+- Probing can go into cycles in an attempt to find an empty spot, especially if the table size is not prime or if the table is half full or more.
+- IF quadratic probing is used, and the table size is prime, then a new element will ALWAYS be inserted if the table is at least half empty.
+	- Slots visited during the first $\frac{m}{2}$ probes (or insertions) are distinct.
+## Double Hashing
+- The offset is another hashing function
+	- First hash function determines first slot the key normally hashes to
+	- Second hash should be to determine the increment for the probe sequence.
+- $h(k, i) = (h_1(k) + i \times h_2(k)) \mod m$
+	- $i = 0, 1, \ldots$
+- Selection of the second hash function is crucial
+	- It must never evaluate to 0
+	- All cells can be probed
+	- Good example: $h_2(k) = R - (k \mod R)$, where R is a prime smaller than the table size.
 
 #DSA #cs3345 #utd #CS #big-o  #hashing

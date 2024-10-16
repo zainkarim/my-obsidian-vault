@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3345/Week 9/Lecture 15.md",
+                "file": "UTD/2024-2025/Fall/CS 3345/Week 9/Lecture 10.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3345/Week 9/Lecture 15.md",
+                "file": "UTD/2024-2025/Fall/CS 3345/Week 9/Lecture 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3345/Week 9/Lecture 15.md",
+                "file": "UTD/2024-2025/Fall/CS 3345/Week 9/Lecture 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3345/Week 9/Lecture 15.md"
+                "file": "UTD/2024-2025/Fall/CS 3345/Week 9/Lecture 10.md"
               }
             }
           },
@@ -164,10 +164,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c17e6d52897e1539",
+  "active": "56277b173e583c92",
   "lastOpenFiles": [
-    "UTD/2024-2025/Fall/CS 3345/Week 8/Lecture 14.md",
     "UTD/2024-2025/Fall/CS 3345/Week 9/Lecture 15.md",
+    "UTD/2024-2025/Fall/CS 3345/Week 9/Lecture 10.md",
+    "UTD/2024-2025/Fall/CS 3345/Week 8/Lecture 14.md",
     "UTD/2024-2025/Fall/CS 3345/Week 7/Lecture 13.md",
     "UTD/2024-2025/Fall/CS 3345/Week 9",
     "UTD/2024-2025/Fall/CS 3345/Week 7/Lecture 12.md",
@@ -201,7 +202,6 @@
     "Untitled.md",
     "UTD/2024-2025/Fall/CS 3345/Week 4",
     "UTD/2024-2025/Fall/ECS 3390/Week 4/Cover Letters.md",
-    "UTD/2024-2025/Fall/CS 3345/Week 2/Lecture 4.md",
-    "UTD/2024-2025/Fall/CS 3345/Week 2/Lecture 3.md"
+    "UTD/2024-2025/Fall/CS 3345/Week 2/Lecture 4.md"
   ]
 }

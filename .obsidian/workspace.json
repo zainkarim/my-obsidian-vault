@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3345/Week 9/Lecture 10.md",
+                "file": "UTD/2024-2025/Fall/CS 3345/Week 10/Lecture 17.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3345/Week 9/Lecture 10.md",
+                "file": "UTD/2024-2025/Fall/CS 3345/Week 10/Lecture 17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3345/Week 9/Lecture 10.md",
+                "file": "UTD/2024-2025/Fall/CS 3345/Week 10/Lecture 17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UTD/2024-2025/Fall/CS 3345/Week 9/Lecture 10.md"
+                "file": "UTD/2024-2025/Fall/CS 3345/Week 10/Lecture 17.md"
               }
             }
           },
@@ -166,8 +166,11 @@
   },
   "active": "56277b173e583c92",
   "lastOpenFiles": [
+    "UTD/2024-2025/Fall/CS 3345/Week 9/Lecture 16.md",
     "UTD/2024-2025/Fall/CS 3345/Week 9/Lecture 15.md",
-    "UTD/2024-2025/Fall/CS 3345/Week 9/Lecture 10.md",
+    "UTD/2024-2025/Fall/CS 3345/Week 10/Lecture 17.md",
+    "UTD/2024-2025/Fall/CS 3345/Week 10",
+    "UTD/2024-2025/Fall/CS 3345/Week 9/Untitled",
     "UTD/2024-2025/Fall/CS 3345/Week 8/Lecture 14.md",
     "UTD/2024-2025/Fall/CS 3345/Week 7/Lecture 13.md",
     "UTD/2024-2025/Fall/CS 3345/Week 9",
@@ -195,13 +198,10 @@
     "UTD/2024-2025/Fall/CS 3345/Untitled.canvas",
     "UTD/2024-2025/Fall/CS 3345/Week 5",
     "UTD/2024-2025/Fall/CS 3345/Week 4/Untitled",
-    "UTD/2024-2025/Fall/CS 3377/Week 5",
     "UTD/2024-2025/Fall/CS 3377/Week 3/Bash Scripting.md",
     "UTD/2024-2025/Fall/CS 3345/Week 3/Lecture 5.md",
     "UTD/2024-2025/Fall/CS 3377/Week 2/Linux Commands.md",
     "Untitled.md",
-    "UTD/2024-2025/Fall/CS 3345/Week 4",
-    "UTD/2024-2025/Fall/ECS 3390/Week 4/Cover Letters.md",
-    "UTD/2024-2025/Fall/CS 3345/Week 2/Lecture 4.md"
+    "UTD/2024-2025/Fall/ECS 3390/Week 4/Cover Letters.md"
   ]
 }

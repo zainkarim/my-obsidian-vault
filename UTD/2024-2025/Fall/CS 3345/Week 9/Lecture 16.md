@@ -24,5 +24,6 @@
 	- 1. Structure:
 		- A heap is a COMPLETE binary tree
 	- 2. Order of data
-		- Min-Heap: For every node X, the key in the parent of X is smalelr (or equal) the key in X (with the exception of the root).
-	- 
+		- Min-Heap: For every node X, the key in the parent of X is smaller (or equal) the key in X (with the exception of the root).
+
+#DSA #cs3345 #utd #CS #big-o  #heaps
